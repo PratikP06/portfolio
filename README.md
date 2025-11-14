@@ -1,4 +1,4 @@
-# 🌟 Pratik’s Personal Portfolio
+# 🌟 My Personal Portfolio
 
 A modern, responsive developer portfolio built using React, plain CSS, and a clean UI theme.
 Showcasing my skills, projects, journey, and ways to connect with me — all in one place.
