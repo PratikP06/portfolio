@@ -1,16 +1,62 @@
-# React + Vite
+🌟 Pratik’s Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive developer portfolio built using React, plain CSS, and a clean UI theme.
+Showcasing my skills, projects, journey, and ways to connect with me — all in one place.
 
-Currently, two official plugins are available:
+🚀 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React.js
 
-## React Compiler
+HTML5 + CSS3
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+JavaScript (ES6+)
 
-## Expanding the ESLint configuration
+Vercel Deployment
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📌 Features
+
+Fully responsive design
+
+Smooth scroll animations
+
+Minimal and modern UI
+
+Custom hamburger menu
+
+Projects section with external links
+
+Contact form
+
+Resume download button
+
+Glow background aesthetic
+
+📁 Sections Included
+
+Hero Section
+
+Skills
+
+Projects
+
+About Me
+
+Contact Form
+
+Footer
+
+🌎 Live Demo
+
+🚀 Live Website: [Add your Vercel URL here]
+
+📬 Contact
+
+Feel free to reach out!
+
+Email: yourEmail@example.com
+
+LinkedIn: add-your-link-here
+
+💡 Feedback
+
+If you have suggestions or ideas to improve this project, feel free to open an issue or reach out. Always learning, always building! 😄
