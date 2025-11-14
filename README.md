@@ -1,9 +1,10 @@
-🌟 Pratik’s Personal Portfolio
+# 🌟 Pratik’s Personal Portfolio
 
 A modern, responsive developer portfolio built using React, plain CSS, and a clean UI theme.
 Showcasing my skills, projects, journey, and ways to connect with me — all in one place.
 
-🚀 Tech Stack
+
+# 🚀 Tech Stack
 
 React.js
 
@@ -13,7 +14,8 @@ JavaScript (ES6+)
 
 Vercel Deployment
 
-📌 Features
+
+# 📌 Features
 
 Fully responsive design
 
@@ -31,7 +33,8 @@ Resume download button
 
 Glow background aesthetic
 
-📁 Sections Included
+
+# 📁 Sections Included
 
 Hero Section
 
@@ -45,11 +48,13 @@ Contact Form
 
 Footer
 
-🌎 Live Demo
+
+# 🌎 Live Demo
 
 🚀 Live Website: [Add your Vercel URL here]
 
-📬 Contact
+
+# 📬 Contact
 
 Feel free to reach out!
 
@@ -57,6 +62,8 @@ Email: yourEmail@example.com
 
 LinkedIn: add-your-link-here
 
-💡 Feedback
+
+# 💡 Feedback
+
 
 If you have suggestions or ideas to improve this project, feel free to open an issue or reach out. Always learning, always building! 😄
