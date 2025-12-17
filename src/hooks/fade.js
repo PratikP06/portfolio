@@ -16,7 +16,7 @@ export default function useFadeIn() {
         if (entry.isIntersecting) {
           entry.target.classList.add("visible");
         } else {
-          entry.target.classList.remove("visible");  // ⭐ Make it reversible
+          entry.target.classList.remove("visible");  
         }
 
       });

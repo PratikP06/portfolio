@@ -16,7 +16,9 @@ function Hero() {
           bringing them to life using code.
         </p>
 
-        <button className="cta-btn fade-in">Download Resume</button>
+        <a className="cta-btn fade-in"
+          href="/Resume1.pdf"
+          download="Resume1.pdf">Download Resume</a>
       </div>
       
     </>
